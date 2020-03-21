@@ -1,7 +1,9 @@
+---
 layout: page
 lang: de
 title: "Krisen Support"
 permalink: /index
+---
 
 <dl>
 	<dt>Telefon-Seelsorge</dt>
