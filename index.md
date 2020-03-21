@@ -3,7 +3,7 @@
 layout: page
 lang: de
 title: "Krisen Support"
-permalink: /index/
+permalink: /de/
 
 ---
 
